@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhavin-Vadnathani
-- 👀 I’m interested in Finacial Coding.
+- 👀 I’m interested in Financial Coding.
 - 🌱 I’m currently learning C++ and Python.
 - 😄 Pronouns: He/Him.
 
